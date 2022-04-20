@@ -338,7 +338,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30D7\u30EC\u30A4\u3059\u308B\u306B\u306F Space \u30AD\u30FC\u3092\u62BC\u3057\u3066\u304F\u3060\u3055\u3044"
+  m_Text: Press Space
 --- !u!222 &477230825
 CanvasRenderer:
   m_ObjectHideFlags: 0
