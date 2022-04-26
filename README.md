@@ -1,5 +1,9 @@
 # OfflineDinosaur
 
+■Unityroomリンク
+
+https://unityroom.com/games/dino
+
 ■元ゲーム
 
 オフラインダイナソー
